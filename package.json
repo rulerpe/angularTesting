@@ -1,0 +1,15 @@
+{
+  "name": "tutsTesting",
+  "version": "1.0.0",
+  "description": "angular testing tut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.8.1",
+    "gulp": "^3.9.0"
+  }
+}
